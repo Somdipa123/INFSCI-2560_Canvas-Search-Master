@@ -1,1 +1,1 @@
-# INFSCI-2560_Canvas-Search-Master
+# Canvas-Search-Master
